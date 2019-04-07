@@ -92,6 +92,10 @@ Make an API request in the JavaScript console:
 
 ## Demo: How do I use Heroku?
 
+Install the Heroku command-line tools:
+
+    $ brew install heroku/brew/heroku
+
 Create a Heroku application:
 
     $ heroku create -a cs121-hello-demo
@@ -99,3 +103,8 @@ Create a Heroku application:
 Deploy the application:
 
     $ git push heroku master
+
+Install Heroku add-ons:
+
+* Dead Man's Snitch
+* Timber.io Logging
