@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <b>
+      Hi there! This is the fancy page!
+    </b>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+     function makeRequest(endpoint, data) {
+       console.log("Making request ...");
+       $.ajax({
+         // Where are we sending the data?
+         method: "POST",
+         url: endpoint,
+         // What is the data?
+         contentType: "application/json",
+         data: JSON.stringify(data),
+         // What do we do with the response?
+         dataType: "json",
+         success: data => {
+           console.log("Got the data!");
+           console.log(data);
+         },
+         error: data => {
+           console.error("There was an error!");
+           console.error(data);
+         }
+       })
+     }
+    </script>
+  </body>
+</html>
