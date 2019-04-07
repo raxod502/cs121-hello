@@ -60,7 +60,7 @@ Fetch the home page of Gmail instead:
 
 Run my Flask server:
 
-    $ pipenv run flask run
+    $ FLASK_ENV=development pipenv run flask run
 
 Check out the home page:
 
@@ -103,6 +103,10 @@ Create a Heroku application:
 Deploy the application:
 
     $ git push heroku master
+
+Stream the logs:
+
+    $ heroku logs -t
 
 Install Heroku add-ons:
 
