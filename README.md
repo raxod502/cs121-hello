@@ -112,3 +112,7 @@ Install Heroku add-ons:
 
 * Dead Man's Snitch
 * Timber.io Logging
+
+Run commands on Heroku's remote machine:
+
+    $ heroku run ...
