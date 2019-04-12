@@ -4,7 +4,9 @@ This document is a quick reference for all of the commands I ran in my
 presentation, in case you need to refer to them later.
 
 Check out the slides
-[here](https://docs.google.com/presentation/d/1NTf-VUhs0jjtqVeny3gmdrZZ03Rbv8ZDsLrWiBvHYLk/edit?usp=sharing).
+[here](https://docs.google.com/presentation/d/1NTf-VUhs0jjtqVeny3gmdrZZ03Rbv8ZDsLrWiBvHYLk/edit?usp=sharing),
+and a recording of the presentation
+[here](https://drive.google.com/open?id=1J0dQjrrh7Wiio5HlGAtkPKbn5C7GWhG2).
 
 ## Demo: How do I use Pipenv?
 
