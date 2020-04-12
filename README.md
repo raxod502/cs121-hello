@@ -1,7 +1,15 @@
 # Webapps Done Right
 
+In Spring 2019, while taking CS 121: Software Development at [Harvey
+Mudd College](https://www.hmc.edu/), I was asked to give a guest
+lecture on webapp development. I covered:
+
+* Sane dependency management for Python (using Pipenv)
+* Building a basic webapp (using Flask)
+* Deploying it to production (using Heroku)
+
 This document is a quick reference for all of the commands I ran in my
-presentation, in case you need to refer to them later.
+presentation, in case viewers wanted to refer to them later.
 
 Check out the slides
 [here](https://docs.google.com/presentation/d/1NTf-VUhs0jjtqVeny3gmdrZZ03Rbv8ZDsLrWiBvHYLk/edit?usp=sharing),
