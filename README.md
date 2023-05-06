@@ -70,7 +70,7 @@ Fetch the home page of Gmail instead:
 
 Run my Flask server:
 
-    $ FLASK_ENV=development pipenv run flask run
+    $ FLASK_DEBUG=1 pipenv run flask run
 
 Check out the home page:
 
