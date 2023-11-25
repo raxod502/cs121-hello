@@ -12,9 +12,9 @@ This document is a quick reference for all of the commands I ran in my
 presentation, in case viewers wanted to refer to them later.
 
 Check out the slides
-[here](https://docs.google.com/presentation/d/1KfqX1GrskHAwkoL-uZJck6ILVEqOMosdWM8E8NJCQ2o/edit?usp=sharing),
+[here](https://nextcloud.intuitiveexplanations.com/s/ZzNJW26CiMFB2T4),
 and a recording of the presentation
-[here](https://youtu.be/3Sjz2ADUZMA).
+[here](https://link.intuitiveexplanations.com/cs121-hello).
 
 ## Demo: How do I use Pipenv?
 
